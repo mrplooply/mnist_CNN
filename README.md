@@ -10,7 +10,7 @@ I used a simple CNN for this competition.
 
 ## Results
 
-
+![alt text](https://github.com/mrplooply/predict_house_prices/blob/main/test.png?raw=true)
 
 ## Improvements
 
